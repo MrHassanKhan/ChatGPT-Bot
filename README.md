@@ -14,25 +14,16 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Screenshots
+![image](https://user-images.githubusercontent.com/23718443/230743619-bcb64009-b57b-47b6-9be0-6dce2cc931c7.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Embed Docs Link to Train GPT Model
+![image](https://user-images.githubusercontent.com/23718443/230743643-aab32768-85d5-472c-bfbd-92af805f0c00.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Searching Answer
+![image](https://user-images.githubusercontent.com/23718443/230743680-a3565244-eec1-4ad8-9bde-7824f55c58d6.png)
 
-## Learn More
+#Answer RealTime using Markdown and Syntex highlightner, MarkdownRenderer
+![image](https://user-images.githubusercontent.com/23718443/230743700-e51bddc2-e4f9-4471-a9d1-a0f53c168c48.png)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
